@@ -1,0 +1,11 @@
+discord.py
+flask
+aiohttp
+wikipedia
+requests
+pytz
+datetime
+praw
+pymongo
+dnspython
+asyncio
